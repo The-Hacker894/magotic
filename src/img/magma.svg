@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 1024 1024">
+<metadata>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="GridSpacing" value="60"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="DynamicGuides" value="0"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="CMYKEnabledKey" value="0"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="ShowGrid" value="1"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+</metadata>
+<defs>
+<radialGradient cx="512" r="512" id="RadialGradient" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)" cy="512">
+<stop stop-color="#ff9600" offset="0"/>
+<stop stop-color="#ff4d00" offset="0.639113"/>
+<stop stop-color="#ff8100" offset="0.721774"/>
+<stop stop-color="#ff4700" offset="1"/>
+</radialGradient>
+</defs>
+<g id="Layer 1" vectornator:layerName="Layer 1">
+<path d="M80+0L944+0C988.183+0+1024+35.8172+1024+80L1024+944C1024+988.183+988.183+1024+944+1024L80+1024C35.8172+1024+0+988.183+0+944L0+80C0+35.8172+35.8172+0+80+0Z" opacity="1" fill="url(#RadialGradient)"/>
+<g opacity="1">
+<path d="M774.95+671.022C774.95+702.848+758.959+718.76+726.978+718.76C697.724+718.76+676.776+712.417+664.132+699.73C652.232+687.903+646.282+669.087+646.282+643.283C646.282+629.091+647.894+607.748+651.117+579.256C654.339+550.764+655.951+529.422+655.951+515.23C655.951+482.759+655.455+461.363+654.463+451.042C651.984+426.958+645.91+406.53+636.242+389.757C630.292+393.843+612.566+413.411+583.064+448.461C556.537+479.641+540.051+495.231+533.605+495.231C512.285+495.231+489.724+486.415+465.925+468.782C452.042+458.461+434.192+441.903+412.375+419.109C395.517+401.261+385.105+392.337+381.138+392.337C371.469+392.337+366.635+402.444+366.635+422.657C366.635+443.086+374.63+472.76+390.621+511.682C406.611+550.603+414.606+580.385+414.606+601.029C414.606+682.957+397.376+723.921+362.916+723.921C342.092+723.921+323.498+721.448+307.136+716.502C284.328+709.621+272.924+699.084+272.924+684.892C272.924+669.84+275.093+647.476+279.431+617.801C283.77+588.126+285.939+565.763+285.939+550.71C285.939+526.196+282.654+489.587+276.084+440.881C269.515+392.176+266.23+355.459+266.23+330.73C266.23+295.679+292.137+278.154+343.951+278.154C376.924+278.154+404.814+290.196+427.622+314.28C435.803+322.881+450.802+345.245+472.618+381.371C487.245+405.454+501.129+417.496+514.268+417.496C537.572+417.496+557.281+405.562+573.395+381.693C587.279+359.76+601.286+337.718+615.417+315.57C635.498+291.916+661.777+280.089+694.254+280.089C729.21+280.089+746.687+297.937+746.687+333.633C746.687+346.965+743.774+366.856+737.948+393.305C732.122+419.754+729.21+439.645+729.21+452.977C729.21+477.706+736.833+514.047+752.08+562C767.326+609.953+774.95+646.293+774.95+671.022Z" opacity="1" fill="#000000"/>
+</g>
+</g>
+</svg>
