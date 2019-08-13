@@ -1,6 +1,10 @@
 @font-face {
-    font-family: Caleu;
-    src: url("../fonts/Caleu___.ttf");
+    font-family: "lava lava";
+    src: url("../fonts/lava-lava.ttf");
+}
+@font-face {
+    font-family: "JLS";
+    src: url("../fonts/JLSDataGothicR_NC.otf");
 }
 html, body {
     background: linear-gradient(312deg, #ff9300, #ff5000, #ff7a00, #ff4700);
@@ -9,6 +13,7 @@ html, body {
     -moz-animation: Magma 30s ease infinite;
     animation: Magma 30s ease infinite;
     height: 100%;
+    letter-spacing: 1px;
 }
 .container {
     margin-top: 2vw;
@@ -16,7 +21,9 @@ html, body {
     color: white;
     border-radius: 35px;
     text-align: center;
-    font-family: Caleu
+    font-family: JLS;
+    
+    padding-top: 5%;
 }
 @-webkit-keyframes Magma {
     0%{background-position:0% 11%}
@@ -38,8 +45,12 @@ html, body {
         font-size: 275% !important;
     }
 }
+h1:before {
+    margin-top: 50%;
+}
 h1 {
     font-size: 350%;
+    font-family: "lava lava" !important;
 }
 .container p {
     font-size: 130%;
@@ -76,11 +87,12 @@ footer {
     border-top-left-radius: 35px;
     border-top-right-radius: 35px;
     text-align: center;
-    font-family: Caleu;
+    font-family: JLS;
     width: 85vw;
     bottom: 0;
     position: absolute;
     left: 7.5%;
+
 }
 footer h5{
     margin-top: .75vw;
