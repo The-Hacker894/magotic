@@ -45,12 +45,29 @@ html, body {
         font-size: 275% !important;
     }
 }
+@media(max-width:1024px) and (min-width: 992px) {
+    h1 {
+        font-size: 300% !important;
+    }
+}
+.showMobile {
+    display: none;
+}
+@media(max-width:444px) {
+    .hideMobile {
+        display: none;
+    }
+    .showMobile {
+        display: block !important;
+    }
+}
 h1:before {
     margin-top: 50%;
 }
 h1 {
     font-size: 350%;
     font-family: "lava lava" !important;
+    word-wrap: break-word;
 }
 .container p {
     font-size: 130%;
